@@ -5,11 +5,11 @@
   a tremendous amount.
 
 # SKILLS
-  The first of my many skills as a superior programmer, is the ability to structure content on
+  The first of my many skills as a programmer, is the ability to structure content on
   web pages.
-  The second of my many skills as a superior programmer, is the ability to write CSS code
+  The second of my many skills as a programmer, is the ability to write CSS code
   in order to style web pages and make them look beatiful.
-  The third of my many skills as a superior programmer, is the ability to use JavaScript in
+  The third of my many skills as a programmer, is the ability to use JavaScript in
   order to make my web pages interactive.
 
 # EDUCATION
